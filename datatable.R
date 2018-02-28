@@ -109,4 +109,10 @@ ans
 
 # plot 
 # http://r-statistics.co/ggplot2-Tutorial-With-R.html
+# Setup
+options(scipen=999)  # turn off scientific notation like 1e+06
+library(ggplot2)
+ggplot(flights14.table[1:100], aes(x=carrier, y=air_time)) + geom_point()
+
+
 
