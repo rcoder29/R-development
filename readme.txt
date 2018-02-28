@@ -26,3 +26,4 @@ https://www.rstudio.com/online-learning/
 https://s3.amazonaws.com/assets.datacamp.com/blog_assets/datatable_Cheat_Sheet_R.pdf
 https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html
 http://r-statistics.co/Complete-Ggplot2-Tutorial-Part1-With-R-Code.html
+http://tutorials.iq.harvard.edu/R/Rgraphics/Rgraphics.html
