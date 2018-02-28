@@ -107,3 +107,6 @@ ans
 # https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html
 # covered upto keyby
 
+# plot 
+# http://r-statistics.co/ggplot2-Tutorial-With-R.html
+
