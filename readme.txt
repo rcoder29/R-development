@@ -30,6 +30,7 @@ http://r-statistics.co/Complete-Ggplot2-Tutorial-Part1-With-R-Code.html
 http://tutorials.iq.harvard.edu/R/Rgraphics/Rgraphics.html
 http://r-statistics.co/ggplot2-Tutorial-With-R.html
 http://ggplot2.tidyverse.org/reference/geom_bar.html
+http://tutorials.iq.harvard.edu/R/Rgraphics/Rgraphics.html
 http://www.r-tutor.com/deep-learning/introduction
 http://www.r-tutor.com/r-introduction/list
 https://www.rdocumentation.org/packages/data.table/versions/1.10.4-2/topics/merge
